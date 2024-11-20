@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodeChallenge</string>
+    <string name="login_button">Login</string>
+    <string name="user_label">User</string>
+    <string name="password_label">Password</string>
+    <string name="welcome_message">Welcome user!</string>
+    <string name="error_message">Wrong user or password</string>
+</resources>
